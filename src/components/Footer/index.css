@@ -1,0 +1,12 @@
+.App-footer {
+  display: flex;
+  background-color: #888888;
+  padding: 5px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.App-footer a, .App-footer a:visited {
+  text-decoration: none;
+  color: black;
+}

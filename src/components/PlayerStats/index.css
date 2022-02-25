@@ -1,0 +1,9 @@
+.MuiDataGrid-root .MuiDataGrid-cell	{
+  text-overflow: initial;
+  overflow: visible;
+  font-size: .7rem;
+}
+
+.MuiDataGrid-root .MuiDataGrid-colCellTitle {
+  font-size: .75rem;
+}

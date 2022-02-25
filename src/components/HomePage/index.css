@@ -1,0 +1,23 @@
+.welcome {
+  background-color: rgb(170, 170, 170);
+  padding: 20px;
+}
+
+.welcome h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+.features {
+  padding: 20px;
+}
+
+.button {
+  color: black;
+  outline: 1px solid black;
+  padding: 5px;
+}
+
+.button a {
+  color: black;
+}

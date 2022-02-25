@@ -1,0 +1,39 @@
+.App-header {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: -webkit-fill-available;
+}
+
+.App-header a, .App-header a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+  color: white;
+}
+
+.title a {
+  text-decoration: none;
+}
+
+.title a:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.routes {
+  display: flex;
+  font-size: 18px;
+}
+
+.routes a {
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+
+.routes a:hover, .title a:hover {
+  color: rgb(159, 159, 159);
+  cursor: pointer;
+}
